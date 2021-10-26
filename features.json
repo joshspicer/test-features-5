@@ -1,6 +1,6 @@
 {
     "id": "helloworld",
-    "name": "My First Feature",
+    "name": "My First Feature 2",
     "options": {
         "greeting": {
             "type": "string",
